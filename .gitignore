@@ -1,0 +1,5 @@
+# rust binaries - compiled
+*.exe
+
+# Rust program database(Windows only)
+*.pdb
