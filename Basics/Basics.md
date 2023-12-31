@@ -13,3 +13,9 @@
 - Compiled using `rustc FILE_NAME.rs` where `FILE_NAME.rs` is the target rust file to complie
 
 - Execute with `./FILE_NAME`: Rust has a Windows specific MSVC toolchain as well as a GNU toolchain for unix systems
+
+#### P1: Hello World
+
+- HelloWorld program:
+  ` fn main(){ println!("Hello World!") } `
+- `println!` is a macro
